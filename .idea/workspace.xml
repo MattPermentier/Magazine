@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d69e603f-9ff9-4467-a9f3-796d05bf72b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24pDViVGWQEPS89Jwz0V7d7n6Dr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reserveringssysteem" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Magazine" />
+      <recent name="C:\xampp\htdocs\magazine\assignment-start\images" />
+      <recent name="C:\xampp\htdocs\magazine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\magazine" />
+      <recent name="C:\xampp\htdocs\magazine\assignment-start\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69e603f-9ff9-4467-a9f3-796d05bf72b7" name="Changes" comment="" />
+      <created>1644318659877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644318659877</updated>
+      <workItem from="1644318661081" duration="403000" />
+      <workItem from="1644319313944" duration="1123000" />
+      <workItem from="1644691377337" duration="1507000" />
+      <workItem from="1645360452736" duration="513000" />
+      <workItem from="1645614244027" duration="8399000" />
+      <workItem from="1646730269605" duration="9000" />
+      <workItem from="1647338476163" duration="320000" />
+      <workItem from="1647783698922" duration="2075000" />
+      <workItem from="1647785805376" duration="208000" />
+      <workItem from="1647786028711" duration="9194000" />
+      <workItem from="1647939833985" duration="570000" />
+      <workItem from="1647946097923" duration="784000" />
+      <workItem from="1647948834059" duration="3196000" />
+      <workItem from="1648131510278" duration="37000" />
+      <workItem from="1648131577411" duration="10610000" />
+      <workItem from="1648304431270" duration="5719000" />
+      <workItem from="1648454132134" duration="516000" />
+      <workItem from="1648458277436" duration="6725000" />
+      <workItem from="1648629503356" duration="27000" />
+      <workItem from="1648750963976" duration="2675000" />
+      <workItem from="1648836981494" duration="1269000" />
+      <workItem from="1648988414464" duration="6000" />
+      <workItem from="1649062870502" duration="16000" />
+      <workItem from="1649066565163" duration="62000" />
+      <workItem from="1649078285332" duration="1272000" />
+      <workItem from="1649153398984" duration="91000" />
+      <workItem from="1649493612029" duration="13425000" />
+      <workItem from="1649847911150" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
